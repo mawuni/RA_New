@@ -6,7 +6,7 @@
      See the guide at https://hsantanna88.github.io/clo-author/ for full documentation. -->
 
 **Project:** [YOUR PROJECT NAME]
-**Institution:** [YOUR INSTITUTION]
+**Institution:** Stevens Institute of Technology
 **Branch:** main
 
 ---
